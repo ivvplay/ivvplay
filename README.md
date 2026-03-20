@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ivvplay&fontAlignY=34&fontAlign=50&section=header&reversal=true&textBg=false&fontSize=50)
 ## Обо мне
 
-Привет! Я фулстек-разработчик. Создаю проекты с душой, ищу нестандартные решения и получаю удовольствие от процесса.
+Привет! Я fullstack-разработчик. Создаю проекты с душой, ищу нестандартные решения и получаю удовольствие от процесса.
 Постоянно учусь новому, потому что мир технологий не стоит на месте — и я не стою вместе с ним. Для меня каждый проект — это шаг вперёд и возможность стать чуточку лучше, чем вчера.
 Ценю работу в команде, открытость и здоровый фидбек. 
 
@@ -16,7 +16,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 
 
-
 ## Технологии
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -24,6 +23,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-
 
 
