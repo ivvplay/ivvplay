@@ -1,6 +1,11 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ivvplay&fontAlignY=34&fontAlign=50&section=header&reversal=true&textBg=false&fontSize=65)
+![](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ivvplay&fontAlignY=34&fontAlign=50&section=header&reversal=true&textBg=false&fontSize=50)
+## Обо мне
 
-### Языки
+
+
+---
+
+## Языки
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -9,7 +14,9 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 
-### Технологии
+---
+
+## Технологии
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
