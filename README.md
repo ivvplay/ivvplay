@@ -1,9 +1,10 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ivvplay&fontAlignY=34&fontAlign=50&section=header&reversal=true&textBg=false&fontSize=50)
 ## Обо мне
 
+Привет! Я фулстек-разработчик. Создаю проекты с душой, ищу нестандартные решения и получаю удовольствие от процесса.
+Постоянно учусь новому, потому что мир технологий не стоит на месте — и я не стою вместе с ним. Для меня каждый проект — это шаг вперёд и возможность стать чуточку лучше, чем вчера.
+Ценю работу в команде, открытость и здоровый фидбек. 
 
-
----
 
 ## Языки
 
@@ -14,7 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 
----
+
 
 ## Технологии
 
